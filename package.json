@@ -3,7 +3,7 @@
   "private": true,
   "description": "Cute gatsby app to determine if you've been naughty or nice this year",
   "version": "0.0.0",
-  "license": "MIT",
+  "license": "0BSD",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
